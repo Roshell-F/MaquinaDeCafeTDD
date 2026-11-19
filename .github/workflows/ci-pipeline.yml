@@ -23,4 +23,5 @@ jobs:
           javac -d out src/maquinadecafetdd3/Vaso.java src/maquinadecafetdd3/Cafetera.java src/maquinadecafetdd3/Azucarero.java src/maquinadecafetdd3/MaquinaDeCafe.java
 
       - name: Verificar compilacion
-run: echo "Compilacion completada correctamente"
+        run: echo "Compilacion completada correctamente"
+
